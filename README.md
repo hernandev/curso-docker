@@ -8,6 +8,7 @@ O Conteúdo foi dividido em duas partes, sendo a primeira com o básico sobre o 
 O programa foi dividido de forma a durar aproximadamente 30 dias de aprendizado, que será dividido da seguinte forma:
 
 | Período                    | Conteúdo
+| -                          | -
 | 22/11/2017                 | Aula Gravada de Introdução ao Curso
 | 23/11/2017                 | Aula Gravada com instruções de Instalação e Requisitos para participar do Curso
 | 24/11/2017                 | Aula Gravada com uma visão geral sobre o Docker
