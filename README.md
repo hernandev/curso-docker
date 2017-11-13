@@ -1,6 +1,6 @@
 ## Docker: Do Zero ao Deploy
 
-Olá, meu nome é [Diego Hernandes](https://github.com/hernandev) e esse é o repositório / landing page do curso/workshop de Docker, que vai rolar ao vivo nos dias 25/11/2017 e 09/12/2017.
+Olá, meu nome é [Diego Hernandes](https://github.com/hernandev) e esse é o repositório / landing page do curso/workshop de Docker, que vai rolar entre os dias 22/11/2017 e 16/12/2017.
 
 ### Conteúdo
 O Conteúdo foi dividido em duas partes, sendo a primeira com o básico sobre o Docker, pra você entender os conceitos e a segunda, sobre Deploy, usando ambos docker-compose em servidor único, AWS e Rancher.
