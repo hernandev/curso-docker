@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Workshop: Docker: Do Zero ao Deploy
 
 You can use the [editor on GitHub](https://github.com/hernandev/workshop-docker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
