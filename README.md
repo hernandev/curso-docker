@@ -12,17 +12,29 @@ O programa foi dividido de forma a durar aproximadamente 30 dias de aprendizado,
 | 22/11/2017                 | Aula Gravada de Introdução ao Curso
 | 23/11/2017                 | Aula Gravada com instruções de Instalação e Requisitos para participar do Curso
 | 24/11/2017                 | Aula Gravada com uma visão geral sobre o Docker
-| **25/11/2017**             | **Aula ao vivo**, de 14:00h as 18:00h, com perguntas ao vivo até as 19:00h.
+| **25/11/2017**             | **Aula ao vivo, de 14:00h as 18:00h, com perguntas ao vivo até as 19:00h.**
 | 26/11/2017                 | Liberação de Exemplos e Exercícios da Semana 1 de curso.
 | 27/11/2017 à 02/12/2017    | Inicio da Correção, ajuda, tira dúvidas e bate papo em canal exclusivo no Telegram.
 | 03/12/2017 à 08/12/2017    | Liberação de Novos Exemplos e Exercícios Diários, a Serem corrigidos no Telegram.
-| **09/12/2017**             | **Aula Ao Vivo**, de 14:00h as 18:00h, com perguntas ao vivo até as 19:00h.
+| **09/12/2017**             | **Aula Ao Vivo, de 14:00h as 18:00h, com perguntas ao vivo até as 19:00h.**
 | 10/12/2017 à 16/12/2017    | Liberação de Exercícios e Suporte / Tira Dúvidas via Telegram.
 
 
-### Markdown
+### Conteúdo Planejado
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O Conteúdo é parcialmente aberto, existem temas pré definidos mas espero que possamos adaptar as demandas dos alunos.
+
+Planejamento Inicial:
+
+| Tema |
+| - 
+| O Que é Docker |
+| Instalando Docker no Linux, Mac OS X e Windows |
+| Entendendo a Docker Machine |
+| Docker na Linha de Comando, rodando serviços |
+| Entendendo Imagens, Volumes, Portas e outros Recursos |
+| Desenhando Serviços com Docker Compose |
+
 
 ```markdown
 Syntax highlighted code block
