@@ -44,30 +44,36 @@ Planejamento Inicial:
 | 14 | Docker em Produção: Docker Compose pra Aplicações Simples |
 
 
-```markdown
-Syntax highlighted code block
+### Requisitos
+Entender pelo menos o básico de linha de comando, e ser desenvolvedor em alguma linguagem de programação.
 
-# Header 1
-## Header 2
-### Header 3
+### Investimento
+Tentei manter o mais baixo possível
 
-- Bulleted
-- List
+| Você é:                    | Valor do Investimento  |
+| -                          | -                      |
+| Ex Aluno de Algum Workshop | R$ 70,00               |
+| Ex Aluno CODECASTS         | R$ 100,00              |
+| Valor Normal               | R$ 140,00              |
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Perguntas Frequentes.
 
-[Link](url) and ![Image](src)
-```
+#### Q0 - Quantos Alunos Vão participar?
+No máximo 20 alunos ao vivo, vamos manter pouca gente pra não virar bagunça e eu poder atender todo mundo bem.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+#### Q1 - Tem Certificado?
+Não, não tem não. Esse workshop é pra quem quer aprender, e não pra quem quer contar horas na faculdade. Além do mais, certificados pra DEV geralmente não servem pra porra nenhuma.
 
-### Jekyll Themes
+#### Q2 - Qual plataforma será usada?
+Google Hangouts, Sala Privada com Gravação Off-line.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hernandev/workshop-docker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### Q3 - Quais as formas de pagamento?
+Boleto, Cartão, e Transferência Itaú (Desconto nessa última forma).
 
-### Support or Contact
+### Inscrições
+Pra se inscrever, manda um email pra [`diego+docker@hernandev.com`](mailto:diego+docker@hernandev.com) com seus dados, que vamos conversando de lá.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Eu estou liberando inscrições manuais pra filtrar um pouco, pra não aparecer um administrador de empresas que nunca viu TI na vida achando que é um curso sobre como assitir Free-Willy.
+
+### THANK-YOU!
