@@ -74,8 +74,11 @@ Google Hangouts, Sala Privada com Gravação Off-line.
 Boleto, Cartão, e Transferência Itaú (Desconto nessa última forma).
 
 ### Inscrições
-Pra se inscrever, manda um email pra [`diego+docker@hernandev.com`](mailto:diego+docker@hernandev.com) com seus dados, que vamos conversando de lá.
+Pra se inscrever, manda um email pra **[`diego+docker@hernandev.com`](mailto:diego+docker@hernandev.com)** com seus dados, que vamos conversando de lá.
 
 Eu estou liberando inscrições manuais pra filtrar um pouco, pra não aparecer um administrador de empresas que nunca viu TI na vida achando que é um curso sobre como assitir Free-Willy.
 
 ### THANK-YOU!
+
+### P.S.
+Não consigo parar de cantar "O Mais Legal é Quando Vamos Pra Baleia, oh oh, ohoh, eu sou o nis..." enquanto escrevo esse readme.
