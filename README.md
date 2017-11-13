@@ -2,7 +2,7 @@
 
 Olá, meu nome é [Diego Hernandes](https://github.com/hernandev) e esse é o repositório / landing page do curso/workshop de Docker, que vai rolar entre os dias 22/11/2017 e 16/12/2017.
 
-![https://www.docker.com/sites/default/files/Whale%20Logo332_5.png](https://www.docker.com/sites/default/files/Whale%20Logo332_5.png)
+![o mais legal é quando vamos na baleia!](https://www.docker.com/sites/default/files/Whale%20Logo332_5.png)
 
 ### Conteúdo
 O Conteúdo foi dividido em duas partes, sendo a primeira com o básico sobre o Docker, pra você entender os conceitos e a segunda, sobre Deploy, usando ambos docker-compose em servidor único, AWS e Rancher.
