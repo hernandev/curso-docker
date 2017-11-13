@@ -1,8 +1,16 @@
 ## Workshop: Docker: Do Zero ao Deploy
 
-You can use the [editor on GitHub](https://github.com/hernandev/workshop-docker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Olá, meu nome é [Diego Hernandes](https://github.com/hernandev) e esse é o repositório / landing page do Workshop sobre Docker, que vai rolar nos dias 25/11/2017 e 09/12/2017.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Conteúdo
+O Conteúdo foi dividido em duas partes, sendo a primeira com o básico sobre o Docker, pra você entender os conceitos e a segunda, sobre Deploy, usando ambos docker-compose em servidor único, AWS e Rancher.
+
+O programa foi dividido de forma a durar aproximadamente 30 dias de aprendizado, que será dividido da seguinte forma:
+
+| Período       | Conteúdo |
+| 22/11 à 25/11 | Liberação de Aulas Gravadas sobre os requisitos e uma introdução ao conteúdo  
+
+
 
 ### Markdown
 
