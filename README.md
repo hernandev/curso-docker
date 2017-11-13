@@ -26,14 +26,22 @@ O Conteúdo é parcialmente aberto, existem temas pré definidos mas espero que 
 
 Planejamento Inicial:
 
-| Tema |
-| - 
-| O Que é Docker |
-| Instalando Docker no Linux, Mac OS X e Windows |
-| Entendendo a Docker Machine |
-| Docker na Linha de Comando, rodando serviços |
-| Entendendo Imagens, Volumes, Portas e outros Recursos |
-| Desenhando Serviços com Docker Compose |
+| #  | Tema |
+| -  | -    | 
+| 01 | O Que é Docker |
+| 02 | Instalando Docker no Linux, Mac OS X e Windows |
+| 03 | Entendendo a Docker Machine |
+| 04 | Docker na Linha de Comando, rodando serviços |
+| 05 | Entendendo Imagens, Volumes, Portas e outros Recursos |
+| 06 | Desenhando Serviços com Docker Compose |
+| 07 | Configurações e Modos de Execução |
+| 08 | Construindo Imagens |
+| 09 | Automatizando Builds |
+| 10 | Segurança de Imagens e Aplicações Rodando no Docker |
+| 11 | Docker em Produção: AWS (ECS) |
+| 12 | Docker em Produção: Rancher |
+| 13 | Docker em Produção: Swarm |
+| 14 | Docker em Produção: Docker Compose pra Aplicações Simples |
 
 
 ```markdown
